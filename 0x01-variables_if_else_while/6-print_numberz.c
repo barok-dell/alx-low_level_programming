@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- *main-Entry Point
- *Return- ALways 0(success)
+ *main - Entry Point
+ *Description: prints all single digit characters of base 10
+ *Return: Always zero
 */
 int main(void)
 {
