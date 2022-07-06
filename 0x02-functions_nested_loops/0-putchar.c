@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-char abe[] = "_putchar";
+char bar[] = "_putchar";
 int c;
 for (c = 0; c < 8; c++)
 {
