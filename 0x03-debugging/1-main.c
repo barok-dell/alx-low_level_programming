@@ -2,6 +2,11 @@
 /**
 * main - causes an infinite loop
 * Return: 0
+* sometimes
+*tomuch
+*22
+*tim
+*4
 */
 int main(void)
 {
