@@ -14,6 +14,7 @@ for (y = 0; y < n; y++)
 for (x = 0; x < n; x++)
 {
 _putchar('#');
+}
 _putchar('\n');
 }
 if (n <= 0)
