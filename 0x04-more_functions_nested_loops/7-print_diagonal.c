@@ -11,7 +11,7 @@ int i;
 int spacess;
 for (i = 0; i <= n; i++)
 {
-for (spacess = 1; spacess < i; spacess++)
+for (spacess = 0; spacess < i; spacess++)
 {
 _putchar(' ');
 }
