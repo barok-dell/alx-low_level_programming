@@ -1,14 +1,15 @@
 #include "main.h"
 #include <stdio.h>
 /**
-*main - Checks the code
-*Return: ALways 0.
-**/
-int main(void)
+* main - check the code
+*
+* Return: Always 0.
+*/
+int main( void)
+int n; 
 {
-int n;
 n = 402;
-printf("n = %d\",  n")
+printf("n=%d\n", n);
 reset_to_98(&n);
 printf("n=%d\n", n);
 return (0);
