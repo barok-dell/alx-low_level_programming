@@ -1,0 +1,11 @@
+#include "main.h"
+/**
+*mul - Multiply To integers
+*@a: Integer one
+*@b: integer two
+*Return: Product of a and b
+*/
+int mul(int a, int b)
+{
+return (a * b);
+}
